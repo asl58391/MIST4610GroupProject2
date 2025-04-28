@@ -10,6 +10,7 @@
 ## Dataset Description (Tony)
 
 ## Question One: Which counties have experienced the greatest change? (Joshua)
+Analyzing which counties in California have experienced the greatest change in infectious disease rates is important because it allows us to explore how various factors can influence public health trends in disease transmission. From city and transportation infrastructure to location to population density, the top counties in California with the greatest increases and decreases in disease cases can reveal how each factor and other possible variables played a role in the disease rate changes observed in our dataset. This question focusing on counties is also directly relevant to the dataset we are using because it enables us to manipulate and analyze infectious disease data reflected across the entire state of California. By including every California county in the scope of our dataset in the context of this question, we can confidently assess which areas of the state experienced the greatest growth or decline in disease cases. The resulting data from this analysis can then support theories and explanations behind what characteristics of counties drive disease rate changes as well as the key differences between areas experiencing increases and decreases.
 
 ## Question Two: How Case and Population Growth Differed Across Urban, Suburban, and Rural Counties? (Ethan)
 
