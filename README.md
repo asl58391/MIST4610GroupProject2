@@ -65,8 +65,7 @@ Colored bars with a gradient to emphasize magnitude of change
 
 ## Data Manipulations for Question 2
 ### Used Google Colab (Python) to calculate slopes for infectious disease rates and population rates from 2000-2020
-
-
+Preview code [here]((https://github.com/asl58391/MIST4610GroupProject2/blob/main/SlopeCalc.ipynb))
 
 
 ## Analysis and Results for Question One (Nabeel)
