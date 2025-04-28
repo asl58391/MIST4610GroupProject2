@@ -1,6 +1,6 @@
 # MIST 4610 Group Project 2
 
-## Group Members
+## Group Three Members
 ##### Nabeel Sadiq [NabeelSadiq](https://www.github.com/Nabeel470)
 ##### Joshua Libatique [JoshuaLibatique](https://www.github.com/jiyuukane)
 ##### Anthony Lopez [AnthonyLopez](https://www.github.com/asl58391)
