@@ -65,8 +65,11 @@ Colored bars with a gradient to emphasize magnitude of change
 
 ## Data Manipulations for Question 2
 ### Used Google Colab (Python) to calculate slopes for infectious disease rates and population rates from 2000-2020
-Preview code [here]((https://github.com/asl58391/MIST4610GroupProject2/blob/main/SlopeCalc.ipynb))
+Preview code [here](https://github.com/asl58391/MIST4610GroupProject2/blob/main/SlopeCalc.ipynb)
 
+### Used Excel to Create Urban Classifications Table to Color Code by Rural, Urban, and Suburban
+#### Urban Counties were those above a population of 750,000, Suburban Counties were those between 100,000 and 750,000, and Rural Counties were those below 100,000
+Preview code [here](https://github.com/asl58391/MIST4610GroupProject2/blob/main/Slope%20Classification.csv)
 
 ## Analysis and Results for Question One (Nabeel)
 ![image](https://github.com/user-attachments/assets/6f9d3322-66d5-4ac1-b2dd-52ad5bcf6793)
