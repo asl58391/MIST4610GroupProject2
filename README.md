@@ -14,10 +14,8 @@ Analyzing which counties in California have experienced the greatest change in i
 
 ## Question Two: How Case and Population Growth Differed Across Urban, Suburban, and Rural Counties? (Ethan)
 
-## Data Manipulations (Tony)
-
-### Data Manipulations for Question 1
-#### Map of California Counties
+## Data Manipulations for Question 1
+### Map of California Counties
 ###### ![image](https://github.com/user-attachments/assets/2297f705-17e0-40cd-90b3-7b4bd7163841)
 ![image](https://github.com/user-attachments/assets/94f08893-c1dc-48c2-82d8-69d82dfd1257)
 ![image](https://github.com/user-attachments/assets/688e6641-e531-42d6-9e1e-41c9bab7cd6a)
@@ -46,7 +44,7 @@ Excluded invalid or ambiguous rows (like “California” row if present).
 
 Since the dataset didn’t include 'County' at the end of the county names, we created a calculated field called 'County (Mapped)' to format the names correctly so Tableau could match them to real map locations
 
-#### Top 5 and Bottom 5 Counties (Bar Charts)
+### Top 5 and Bottom 5 Counties (Bar Charts)
 ![image](https://github.com/user-attachments/assets/0f2ae972-8f12-4d56-adca-b8109f6d3d14)
 ![image](https://github.com/user-attachments/assets/087fe553-1eb5-4b58-a53f-4cf494d448cf)![image](https://github.com/user-attachments/assets/dbba78af-2003-4eef-8074-f49925bd6681)
 
@@ -65,8 +63,9 @@ County on Rows and SUM(Overall % Change) on Columns
 
 Colored bars with a gradient to emphasize magnitude of change
 
-### Data Manipulations for Question 2
-#### Used Google Colab (Python) to calculate slopes for infectious disease rates and population rates from 2000-2020
+## Data Manipulations for Question 2
+### Used Google Colab (Python) to calculate slopes for infectious disease rates and population rates from 2000-2020
+
 
 
 
