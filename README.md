@@ -65,6 +65,10 @@ County on Rows and SUM(Overall % Change) on Columns
 
 Colored bars with a gradient to emphasize magnitude of change
 
+### Data Manipulations for Question 2
+#### Used Google Colab (Python) to calculate slopes for infectious disease rates and population rates from 2000-2020
+
+
 
 ## Analysis and Results for Question One (Nabeel)
 ![image](https://github.com/user-attachments/assets/6f9d3322-66d5-4ac1-b2dd-52ad5bcf6793)
