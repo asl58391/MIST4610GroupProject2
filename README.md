@@ -70,7 +70,13 @@ Preview code [here](https://github.com/asl58391/MIST4610GroupProject2/blob/main/
 
 ### Used Excel to Create Urban Classifications Table to Color Code by Rural, Urban, and Suburban
 #### Urban Counties were those above a population of 750,000, Suburban Counties were those between 100,000 and 750,000, and Rural Counties were those below 100,000
-Preview code [here](https://github.com/asl58391/MIST4610GroupProject2/blob/main/Slope%20Classification.csv)
+Preview csv file [here](https://github.com/asl58391/MIST4610GroupProject2/blob/main/Slope%20Classification.csv)
+
+### Filters and Marks
+## Filtered out a single null value, and excluded California's information as it was in the dataset.
+
+
+
 
 
 
@@ -86,7 +92,7 @@ Several factors help explain these patterns. In general, higher population densi
 
 
 
-## Analysis and Results for Question Two (Claire)
+## Analysis and Results for Question Two 
 <img width="312" alt="Screenshot 2025-04-27 at 8 03 56 PM" src="https://github.com/user-attachments/assets/c91eb1bd-212a-4ada-ae14-2f8faddf12f5" />
 
 Analysis: 
