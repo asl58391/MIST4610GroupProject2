@@ -7,12 +7,19 @@
 ##### Ethan Payne [EthanPayne](https://github.com/EthanPayne27)
 ##### Claire Stockman [ClaireStockman](https://www.github.com/clairestockman)
 
-## Dataset Description (Tony)
+## Dataset Description 
+Our dataset was found from the [data.gov](catalog.data.gov/dataset/infectious-diseases-by-disease-county-year-and-sex-6e856) catalog, and it analyzed infectious diseases by disease, country, year, and sex, while also providing populations for each country. The data provided one data point for each disaese in every county and year from the years of 2000 - 2020, giving us accurate and comprehensive information.
 
-## Question One: Which counties have experienced the greatest change? (Joshua)
+Our first question displayed a map of California, with each county ranging from a gradient of blue to red, with blue signifying a decrease in disease rate and red highlighting an increase. To achieve this map, we added the counties to details and selecting mapped, and added sun of overall % change to colors. The columns and rows were longitude and latitude respectfully, creating a gradient map of the state of California. 
+
+We also wanted to highlight which conuties saw the greatest and lowest change in disease cases over time in hopes of discovering any similarities. To do so, our column was the sum of overall % change, while the rows were county. Afterwards, we filtered by the top and bottom five for overall % change, and created two horizantal bar charts; one for the top and one for the bottom five.
+
+For our second question, we created a scatter plot of the rate of change for population and disease rate over the years 2000 - 2020. We had to use python in order to calculate the slope, as our version of tableau was unable to. After importing the new table created with python, we had the slope for population as our column, with the slope for diseease rate as our row. Afterwards, with a new table called urban classifcation created in excel, we used the classification to color code the data points, and created a trned line for each classification. After all the steps above, we had a scatter plot highlighting the population vs the disease rates, creating an outlook into how population growth can affect disease rate. 
+
+## Question One: Which counties have experienced the greatest change? 
 Analyzing which counties in California have experienced the greatest change in infectious disease rates is important because it allows us to explore how various factors can influence public health trends in disease transmission. From city and transportation infrastructure to location to population density, the top counties in California with the greatest increases and decreases in disease cases can reveal how each factor and other possible variables played a role in the disease rate changes observed in our dataset. This question focusing on counties is also directly relevant to the dataset we are using because it enables us to manipulate and analyze infectious disease data reflected across the entire state of California. By including every California county in the scope of our dataset in the context of this question, we can confidently assess which areas of the state experienced the greatest growth or decline in disease cases. The resulting data from this analysis can then support theories and explanations behind what characteristics of counties drive disease rate changes as well as the key differences between areas experiencing increases and decreases.
 
-## Question Two: How Case and Population Growth Differed Across Urban, Suburban, and Rural Counties? (Ethan)
+## Question Two: How Case and Population Growth Differed Across Urban, Suburban, and Rural Counties? 
 The second question we sought to answer was “How do case and population growth differ across urban, suburban, and rural counties?”.  There are several reasons why this question is interesting and important. These reasons include social, economic, and cultural. Socially, finding the differences in population growth and case growth can reveal disparities in healthcare access, living conditions, and the infrastructure of public health in differently populated areas. Economically, finding an increase or decrease in cases within a county can affect labor markets, housing markets, and the allocation of resources, specifically pharmaceuticals. Culturally, the analysis of this data may highlight the response hygienically to a global pandemic, even though the pandemic was caused by a virus. All of these realizations could aid policymakers, urban planners, and healthcare leaders to intervene more efficiently. On the other hand, these same leaders would have more data to support the investment into various developments within the state of California. This question is tied to the dataset because of its emphasis on the correlation between population and infectious diseases, which are both prominently recorded in the dataset.
 
 ## Data Manipulations for Question 1
@@ -80,7 +87,7 @@ Preview csv file [here](https://github.com/asl58391/MIST4610GroupProject2/blob/m
 
 
 
-## Analysis and Results for Question One (Nabeel)
+## Analysis and Results for Question One 
 ![image](https://github.com/user-attachments/assets/6f9d3322-66d5-4ac1-b2dd-52ad5bcf6793)
 ![image](https://github.com/user-attachments/assets/cd8cdff6-a7cd-466a-9f89-64d9c4642001)
 ![image](https://github.com/user-attachments/assets/fdb9d329-c774-4a1c-8e17-7f2bb3499802)
