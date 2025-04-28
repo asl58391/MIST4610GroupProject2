@@ -73,7 +73,8 @@ Preview code [here](https://github.com/asl58391/MIST4610GroupProject2/blob/main/
 Preview csv file [here](https://github.com/asl58391/MIST4610GroupProject2/blob/main/Slope%20Classification.csv)
 
 ### Filters and Marks
-## Filtered out a single null value, and excluded California's information as it was in the dataset.
+#### Filtered out a single null value, and excluded California's information as it was in the dataset.
+
 
 
 
