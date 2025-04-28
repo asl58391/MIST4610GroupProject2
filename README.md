@@ -75,7 +75,7 @@ Preview csv file [here](https://github.com/asl58391/MIST4610GroupProject2/blob/m
 ### Filters, Marks, Columns, and Rows
 #### Filtered out a single null value, and excluded California's information as it was in the dataset.
 ![image](https://github.com/asl58391/MIST4610GroupProject2/blob/main/Filters%20and%20Marks.png)
-1[image](https://github.com/asl58391/MIST4610GroupProject2/blob/main/Columns%20and%20Rows.png)
+![image](https://github.com/asl58391/MIST4610GroupProject2/blob/main/Columns%20and%20Rows.png)
 
 
 
