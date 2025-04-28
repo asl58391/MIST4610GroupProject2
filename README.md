@@ -112,5 +112,9 @@ Potential Explanation:
 - Rural areas tend to show more data variance due to smaller populations and a higher sensitivity to localized outbreaks. 
 
 ### Tableau Worksheets
+[Question One](https://github.com/asl58391/MIST4610GroupProject2/blob/main/4610_TableauProj.twb)
+
+[Question Two](https://github.com/asl58391/MIST4610GroupProject2/blob/main/Project2.twbx)
+
 
 
