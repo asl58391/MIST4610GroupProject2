@@ -94,8 +94,7 @@ Several factors help explain these patterns. In general, higher population densi
 
 
 ## Analysis and Results for Question Two 
-<img width="312" alt="Screenshot 2025-04-27 at 8 03 56 PM" src="https://github.com/user-attachments/assets/c91eb1bd-212a-4ada-ae14-2f8faddf12f5" />
-
+![image](https://github.com/asl58391/MIST4610GroupProject2/blob/main/Table.png)
 Analysis: 
 - After looking at the scatterplot and trend lines it was apparent that urban counties (the blue points and trendline) show the highest case growth relative to population growth.
 - The rural counties (red points and line) had moderate case growth relative to population growth.The case growth increased more with population growth thatn suburban counties, but less than urban ones.
